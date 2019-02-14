@@ -1,0 +1,25 @@
+{
+  "name": "javascript-tests",
+  "version": "0.1.0",
+  "description": "A suite of JavaScript tests (hopefully) useful for interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahmednuaman/javascript-tests.git"
+  },
+  "author": "Ahmed Nuaman (ahmed@ahmednuaman.com)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/ahmednuaman/javascript-tests/issues"
+  },
+  "homepage": "https://github.com/ahmednuaman/javascript-tests",
+  "dependencies": {
+    "D": "^1.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {}
+}
